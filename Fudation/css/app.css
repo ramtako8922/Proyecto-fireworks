@@ -1,0 +1,64 @@
+body{
+  background-image: url("../img/fondo.jpg");
+  background-size: cover;
+
+}
+.main{
+background-color: #818183;
+opacity: 0.75;
+}
+.logo{
+  font-size: 20px;
+  color: white;
+  border-right: solid 1px #C6C2DC;
+  border-bottom:solid 1px #C6C2DC;
+}
+
+.barra{
+border-bottom:solid 1px #C6C2DC;
+}
+
+
+.izquierda{
+  background-color: #c3cce3;
+
+}
+
+.enlace{
+  background-color: #9B99A2;
+}
+
+img{
+  width: 25%;
+}
+
+.lista{
+  font-size: 18px
+}
+
+.izquierda2{
+  border-right: solid 1px #C6C2DC;
+}
+
+.pc1{
+  width: 90%;
+}
+
+.comentario{
+  height: 80px;
+}
+.us1{
+  height: 90px;
+  width: 100px;
+
+}
+
+.poster{
+  font-size: 12px;
+}
+.derecho{
+  background-color: #e7c7d4;
+}
+.resalto, .articulo{
+  color: #8A3482
+}
